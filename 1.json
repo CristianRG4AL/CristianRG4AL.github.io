@@ -33,19 +33,16 @@
     },
     {
       "trait_type": "Mana Cost",
-      "display_type": "number",
       "value": 3,
       "max_value": 12
     },
     {
       "trait_type": "Skill Level",
-      "display_type": "number",
       "value": 5,
       "max_value": 7
     },
     {
       "trait_type": "Cosmetic",
-      "display_type": "number",
       "value": 0,
       "max_value": 5
     }
