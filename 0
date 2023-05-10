@@ -1,0 +1,53 @@
+// 20230510115707
+// https://prod-web3-token-tracker-tqkvar3wjq-uc.a.run.app/metadata/0x2bb1943b324E6A5cC50Dc3670434ab33eaCe5Ea0/8
+
+{
+  "name": "Leap of faith",
+  "description": "<DESCRIPCION SOBRE EL NFT>",
+  "image": "https://prod-web3-token-tracker-tqkvar3wjq-uc.a.run.app/image/0x2bb1943b324E6A5cC50Dc3670434ab33eaCe5Ea0/8",
+  "external_url": "https://gfal-web3-portal.vercel.app/games/0x2bb1943b324E6A5cC50Dc3670434ab33eaCe5Ea0/8",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Leap of Faith"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Skill"
+    },
+    {
+      "trait_type": "Hero",
+      "value": "Igniel"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Instant",
+      "value": true
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Mana Cost",
+			"display_type": "number",
+      "value": 3,
+			"max_value": 12    
+},
+    {
+      "trait_type": "Skill Level",
+			"display_type": "number",
+      "value": 5,
+			"max_value": 7    
+    },
+    {
+      "trait_type": "Cosmetic",
+			"display_type": "number",
+      "value": 0
+			"max_value": 5    
+    }
+  ]
+}
