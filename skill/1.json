@@ -6,14 +6,6 @@
   "external_url": "https://gfal-web3-portal.vercel.app/games/0x2bb1943b324E6A5cC50Dc3670434ab33eaCe5Ea0/8",
   "attributes": [
     {
-      "trait_type": "Name",
-      "value": "Leap of Faith"
-    },
-    {
-      "trait_type": "Type",
-      "value": "Skill"
-    },
-    {
       "trait_type": "Hero",
       "value": "Igniel"
     },
@@ -22,17 +14,12 @@
       "value": "Fire"
     },
     {
-      "trait_type": "Instant",
-      "value": "true"
-    },
-    {
       "trait_type": "Rarity",
       "value": "Epic"
     },
     {
       "trait_type": "Mana Cost",
       "value": 3,
-      "max_value": 12
     },
     {
       "trait_type": "Skill Level",
