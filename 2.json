@@ -1,16 +1,16 @@
 {
-  "name": "Deep Sea",
-  "description": "Description NFT...",
+  "name": "Chaos",
+  "description": "Igniel's skin",
   "image": "https://prod-web3-token-tracker-tqkvar3wjq-uc.a.run.app/image/0x03414997B50123C7E9b8E4a0daAF13F13B95AD9D/8",
   "external_url": "https://gfal-web3-portal.vercel.app/games/0x03414997B50123C7E9b8E4a0daAF13F13B95AD9D/8",
   "attributes": [
     {
       "trait_type": "Hero",
-      "value": "Reef"
+      "value": "Igniel"
     },
     {
       "trait_type": "Element",
-      "value": "Water"
+      "value": "Fire"
     },
     {
       "trait_type": "Type",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ]
 }
