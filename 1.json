@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Mana Cost",
-      "value": 3,
+      "value": 3
     },
     {
       "trait_type": "Skill Level",
@@ -33,4 +33,3 @@
     }
   ]
 }
-
