@@ -1,0 +1,24 @@
+{
+  "name": "Deep Sea",
+  "description": "Description NFT...",
+  "image": "https://prod-web3-token-tracker-tqkvar3wjq-uc.a.run.app/image/0x03414997B50123C7E9b8E4a0daAF13F13B95AD9D/8",
+  "external_url": "https://gfal-web3-portal.vercel.app/games/0x03414997B50123C7E9b8E4a0daAF13F13B95AD9D/8",
+  "attributes": [
+    {
+      "trait_type": "Hero",
+      "value": "Reef"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Hero"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}
